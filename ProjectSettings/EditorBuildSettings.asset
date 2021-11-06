@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/ParticlesBouncyRoom.unity
+    guid: 73e9712881e5ec447b1e643bf84722fc
+  - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: df533881eed44b64ba549a6a2a076e4a
   - enabled: 1
